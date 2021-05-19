@@ -24,12 +24,12 @@
 - [ ] Recommend to lock Azure resources critical to the infrastructure such as VNets, DNS, DCs, gateways, NVAs, ER circuits, NSGs etc.
 - [ ] Recommend to enable Azure policies to enforce ruleset on Azure subscriptions in scenarios such as: 
   - [ ] Geo-compliance
-* Service Curation
-* Auto-tagging and tag value enforcement
+  - [ ] Service Curation
+  - [ ] Auto-tagging and tag value enforcement
 - [ ] Recommend to leverage RBAC for access control. 
-* Recommend to follow Least Access Priviledge and assign RBAC roles at resource group scopes.
-* Recommend to prioritize built-in RBAC roles vs. custom RBAC roles.
-* Recommend to keep Owner RBAC roles as high privileges assignments. 
+  - [ ] Recommend to follow Least Access Priviledge and assign RBAC roles at resource group scopes.
+  - [ ] Recommend to prioritize built-in RBAC roles vs. custom RBAC roles.
+  - [ ] Recommend to keep Owner RBAC roles as high privileges assignments. 
 - [ ] Recommend to audit management plane actions using the Azure Activity Log
 - [ ] Recommend to use Azure Key Vault for key, secrets and certificate store and management.
 - [ ] Recommend to leverage Azure Automation’s Patch management, inventory, and change tracking for VMs in-guest OS controls/monitoring.
