@@ -14,7 +14,8 @@
 
 ### DevOps
 
-- [ ] 
+- [ ] Recommend to [enable service health alerts](https://docs.microsoft.com/en-us/azure/service-health/alerts-activity-log-service-notifications-portal).
+
 
 ## Networking
 
