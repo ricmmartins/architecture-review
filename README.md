@@ -4,6 +4,18 @@
 
 ## Governance
 
+### Availability and Resiliency
+
+### Scalability and Performance
+
+### Security
+
+### Management
+
+### DevOps
+
+- [ ] 
+
 ## Networking
 
 ## Infrastructure (Compute/Storage)
