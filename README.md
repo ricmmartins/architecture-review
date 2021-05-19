@@ -19,7 +19,7 @@
 ### Security
 
 - [ ] Recommend to enable Azure Security Center for subscriptions.
-* Recommend to re-use pre-configured log analytics workspaces for VMs.
+  - [ ] Recommend to re-use pre-configured log analytics workspaces for VMs.
 - [ ] Recommend to re-use pre-configured log analytics workspaces for VMs.
 - [ ] Recommend to lock Azure resources critical to the infrastructure such as VNets, DNS, DCs, gateways, NVAs, ER circuits, NSGs etc.
 - [ ] Recommend to enable Azure policies to enforce ruleset on Azure subscriptions in scenarios such as: 
