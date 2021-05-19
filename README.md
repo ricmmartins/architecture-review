@@ -23,7 +23,7 @@
 - [ ] Recommend to re-use pre-configured log analytics workspaces for VMs.
 - [ ] Recommend to lock Azure resources critical to the infrastructure such as VNets, DNS, DCs, gateways, NVAs, ER circuits, NSGs etc.
 - [ ] Recommend to enable Azure policies to enforce ruleset on Azure subscriptions in scenarios such as: 
-* Geo-compliance
+ - [ ] Geo-compliance
 * Service Curation
 * Auto-tagging and tag value enforcement
 - [ ] Recommend to leverage RBAC for access control. 
