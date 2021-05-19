@@ -18,8 +18,39 @@
 
 ## Networking
 
+### Availability and Resiliency
+
+### Scalability and Performance
+
+### Security
+
+### Management
+
+### DevOps
+
 ## Infrastructure (Compute/Storage)
 
+### Availability and Resiliency
+
+### Scalability and Performance
+
+### Security
+
+### Management
+
+### DevOps
+
 ## Identity
+
+### Availability and Resiliency
+
+### Scalability and Performance
+
+### Security
+
+### Management
+
+### DevOps
+
 
 
