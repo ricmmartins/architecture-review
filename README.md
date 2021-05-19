@@ -13,6 +13,9 @@
 
 ### Scalability and Performance
 
+- [ ] Recommend to configure alerts to auto-scale Azure VMs either [vertically](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-vertical-scale-reprovision) or [horizontally (using VMSS)](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-portal).
+- [ ] Recommend to keep close track of [Azure subscription limits via the quotas in the Azure portal](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/resource-manager-core-quotas-request).
+
 ### Security
 
 ### Management
